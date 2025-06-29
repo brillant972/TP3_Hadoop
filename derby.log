@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jun 28 21:02:12 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0197-b7eb-2dd1-00001766fae0 
+on database directory C:\Users\eleah\OneDrive\Desktop\Cours\BigDataFramework2\TP3-Hadoop\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ef04b5 
+Loaded from file:/C:/Users/eleah/spark-3.5.5-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=11.0.27+6
+user.dir=C:\Users\eleah\OneDrive\Desktop\Cours\BigDataFramework2\TP3-Hadoop
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
